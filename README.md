@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Ala
 - 🌱 I’m currently learning Flutter
 - 💬 Ask me about Dart/Flutter
 - 😄 Pronouns: He
